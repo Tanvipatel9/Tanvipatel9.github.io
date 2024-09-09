@@ -17,14 +17,14 @@
   
   
   #courses {
-    background: #f57c00; /* Bright background color for contrast */
+    background: #4afcac; /* Bright background color for contrast */
     padding: 0px 0;
     color: #333; /* Dark grey text color */
     font-family: 'Space Mono', sans-serif;
   }
   
   .footer {
-    background-color: #f57c00; /* Orange background color */
+    background-color: #4afcac; /* Orange background color */
     padding: 20px 0; /* Padding for spacing */
     color: #fff; /* White text color */
     font-family: 'Arial', sans-serif; /* Font style */
@@ -82,7 +82,7 @@
   }
   
   .contact-list a:hover {
-      color: #f57c00; /* Changes color on hover */
+      color: #4afcac; /* Changes color on hover */
   }
   
   .fh5co-heading h2 {

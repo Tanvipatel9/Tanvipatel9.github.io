@@ -17,14 +17,14 @@ body {
 
 
 #courses {
-  background: #f57c00; /* Bright background color for contrast */
+  background: #A1D6B2; /* Bright background color for contrast */
   padding: 0px 0;
   color: #333; /* Dark grey text color */
   font-family: 'Space Mono', sans-serif;
 }
 
 .footer {
-  background-color: #f57c00; /* Orange background color */
+  background-color: #A1D6B2; /* Orange background color */
   padding: 20px 0; /* Padding for spacing */
   color: #fff; /* White text color */
   font-family: 'Arial', sans-serif; /* Font style */
@@ -82,7 +82,7 @@ body {
 }
 
 .contact-list a:hover {
-    color: #f57c00; /* Changes color on hover */
+    color: #A1D6B2; /* Changes color on hover */
 }
 
 .fh5co-heading h2 {
@@ -169,7 +169,7 @@ body {
   padding: 20px;          /* Padding inside the box */
   border-radius: 10px;    /* Rounded corners */
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Box shadow for a card effect */
-  background-color: #FF9000; /* Background color */
+  background-color: #A1D6B2; /* Background color */
   margin-bottom: 20px;    /* Space between boxes */
   transition: transform 0.3s ease-in-out; /* Smooth hover effect */
 }
@@ -283,13 +283,13 @@ body {
 }
 
 a {
-  color: #FF9000;
+  color: #A1D6B2;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #FF9000;
+  color: #A1D6B2;
   outline: none;
   text-decoration: none;
 }
@@ -307,17 +307,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #FF9000;
+  background: #A1D6B2;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #FF9000;
+  background: #A1D6B2;
 }
 
 ::selection {
   color: #fff;
-  background: #FF9000;
+  background: #A1D6B2;
 }
 
 #fh5co-header,
@@ -336,7 +336,7 @@ h1, h2, h3, h4, h5, h6, figure {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(255, 144, 0, 0.9);
+  background: rgba(91, 186, 112, 0.9);
 }
 #fh5co-header .display-t,
 .fh5co-cover .display-t {
@@ -458,7 +458,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-features {
-  background: #FF9000;
+  background: #A1D6B2;
 }
 #fh5co-features h2 {
   color: #fff;
@@ -493,7 +493,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: table-cell;
   vertical-align: middle;
   height: 100px;
-  color: #FF9000 !important;
+  color: #A1D6B2 !important;
 }
 #fh5co-features .feature-left .feature-copy {
   width: 100%;
@@ -544,7 +544,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .fh5co-bg-dark {
   background: #2F3C4F;
-  background: #FF9000;
+  background: #A1D6B2;
 }
 .fh5co-bg-dark .fh5co-heading h2 {
   color: #fff !important;
@@ -601,7 +601,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #FF9000;
+  color: #A1D6B2;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -638,7 +638,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 20px;
 }
 #fh5co-about .fh5co-social-icons li a:hover {
-  background: #FF9000;
+  background: #A1D6B2;
 }
 
 .fh5co-heading {
@@ -768,7 +768,7 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 40px;
   left: 50%;
   margin-left: -21px;
-  background-color: #FF9000;
+  background-color: #A1D6B2;
   z-index: 100;
   display: table;
   -webkit-border-radius: 50%;
@@ -1038,7 +1038,7 @@ h1, h2, h3, h4, h5, h6, figure {
   height: 54px;
   border: none !important;
   background: #fff;
-  color: #FF9000;
+  color: #A1D6B2;
   font-size: 16px;
   text-transform: uppercase;
   font-weight: 400;
@@ -1352,9 +1352,9 @@ input[type="text"] {
 }
 
 .btn-primary {
-  background: #FF9000;
+  background: #A1D6B2;
   color: #fff;
-  border: 2px solid #FF9000;
+  border: 2px solid #A1D6B2;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #ff9b1a !important;
@@ -1362,11 +1362,11 @@ input[type="text"] {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #FF9000;
-  border: 2px solid #FF9000;
+  color: #A1D6B2;
+  border: 2px solid #A1D6B2;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #FF9000;
+  background: #A1D6B2;
   color: #fff;
 }
 
@@ -1496,7 +1496,7 @@ input[type="text"] {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #FF9000;
+  border-color: #A1D6B2;
 }
 
 .row-pb-md {
